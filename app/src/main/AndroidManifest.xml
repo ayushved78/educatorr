@@ -22,9 +22,6 @@
             android:name=".News"
             android:exported="true" />
         <activity
-            android:name=".DashBoard"
-            android:exported="true" />
-        <activity
             android:name=".Screens.DeveloperScreen"
             android:exported="true" />
         <activity

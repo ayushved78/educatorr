@@ -23,7 +23,7 @@ public class News extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()) {
                     case R.id.home:
-                        startActivity(new Intent(getApplicationContext(),DashBoard.class));
+                        startActivity(new Intent(getApplicationContext(),HomeClass.class));
                         overridePendingTransition(0,0);
                         return true;
 
