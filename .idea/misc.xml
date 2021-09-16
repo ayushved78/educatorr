@@ -5,9 +5,16 @@
       <map>
         <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/drawable/background_splash.xml" value="0.26614583333333336" />
         <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/drawable/gradient.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/drawable/selector.xml" value="0.2359375" />
+        <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_about.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_dash_board.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_developer_screen.xml" value="0.21979166666666666" />
         <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_home.xml" value="0.12864583333333332" />
         <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_news.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_profile.xml" value="0.21979166666666666" />
         <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/layout/activity_registration.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/DELL/Desktop/Kotlin/education_app/app/src/main/res/menu/menu_nav.xml" value="0.21979166666666666" />
       </map>
     </option>
   </component>
